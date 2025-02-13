@@ -1,0 +1,9 @@
+<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cd ethernet/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">guest@ethernet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
+My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+
+Loading Data...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Data Completed</p>
+Let me introduce myself..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hello World 👋
+I am Ethan, also known as Ethernet. I am really good with technology and computers and know alot of things of how computers are made and i love learning about them. It's been my dream to work in CyberSecurity to help solve problems & Errors into the mines of the Matrix Codes!. </p>
+TAKE MY ADVICE, "<span id="k">never give up</span>". <!-- sjkfhskjf -->
+<p>Happy Programming | Ethernet</p>
